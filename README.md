@@ -17,6 +17,12 @@
     </table>
 </center>
 
+<div align = "center">
+    
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=jonataspinto&theme=dracula&column=6&row=1&margin-w=10)
+
+</div>
+
 - 👨‍💻 All of my projects are available at [jonataspinto.com.br/projetos](jonataspinto.com.br/projetos)
 
 - 💬 Ask me about **react, nodejs, styled-components, eslint storybook, redux**
