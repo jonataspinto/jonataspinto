@@ -47,7 +47,7 @@
         <p><small>Jest</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="50" />
         <p><small>Gatsby</small></p>
     </td>
     <td align="center">
